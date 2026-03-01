@@ -5,7 +5,7 @@
 
 ---
 
-# 💡 Python Slack Bot
+# 💡 Ticket Assist
 
 A production-ready Slack bot built with **Slack Bolt** and **Flask**, designed for AI-powered customer support ticket classification. The bot listens for `app_mention` events, processes incoming messages, and is wired up for multi-LLM structured responses via Pydantic models.
 
